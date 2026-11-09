@@ -1,0 +1,2 @@
+﻿Challenges of Implementing AI in Education
+Implementing AI in education involves challenges such as infrastructure costs, limited technical skills, data privacy risks, algorithmic bias and unequal access to technology. Schools should provide training, reliable infrastructure and clear policies to ensure responsible AI adoption.

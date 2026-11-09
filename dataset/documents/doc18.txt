@@ -1,0 +1,2 @@
+﻿Data Privacy in AI-Based Education
+AI educational platforms collect information such as student performance, learning activity and personal details. Educational institutions must protect this information through secure storage, access controls and responsible data practices. Students should understand how their information is collected and used.

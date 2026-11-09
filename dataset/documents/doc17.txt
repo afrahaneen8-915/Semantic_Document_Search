@@ -1,0 +1,2 @@
+﻿AI for Educational Content Creation
+AI tools can assist teachers in preparing quizzes, summaries, lesson plans and practice questions. Natural Language Processing models can generate and organize educational content. Teachers should review AI-generated materials to ensure accuracy, fairness and suitability for students.

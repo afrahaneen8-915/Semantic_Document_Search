@@ -1,0 +1,76 @@
+Query_ID,Query,Document_ID,Rank,Similarity_Score
+Q1,How can AI predict student academic performance?,doc11,1,0.842545747756958
+Q1,How can AI predict student academic performance?,doc14,2,0.6786333322525024
+Q1,How can AI predict student academic performance?,doc4,3,0.6119500994682312
+Q1,How can AI predict student academic performance?,doc1,4,0.5690678358078003
+Q1,How can AI predict student academic performance?,doc2,5,0.5682507157325745
+Q2,What is natural language processing in education?,doc12,1,0.8257414698600769
+Q2,What is natural language processing in education?,doc17,2,0.5476719737052917
+Q2,What is natural language processing in education?,doc13,3,0.44895198941230774
+Q2,What is natural language processing in education?,doc1,4,0.44202402234077454
+Q2,What is natural language processing in education?,doc10,5,0.42101722955703735
+Q3,How does AI help students learn languages?,doc13,1,0.7176052331924438
+Q3,How does AI help students learn languages?,doc1,2,0.6560587882995605
+Q3,How does AI help students learn languages?,doc3,3,0.6096338033676147
+Q3,How does AI help students learn languages?,doc15,4,0.5955275893211365
+Q3,How does AI help students learn languages?,doc17,5,0.588017463684082
+Q4,How can schools identify students at risk of dropping out?,doc14,1,0.5631664395332336
+Q4,How can schools identify students at risk of dropping out?,doc11,2,0.4071747660636902
+Q4,How can schools identify students at risk of dropping out?,doc20,3,0.31497275829315186
+Q4,How can schools identify students at risk of dropping out?,doc5,4,0.31060516834259033
+Q4,How can schools identify students at risk of dropping out?,doc18,5,0.2966712713241577
+Q5,What are the benefits of AI in online education?,doc15,1,0.6919822692871094
+Q5,What are the benefits of AI in online education?,doc1,2,0.6130138039588928
+Q5,What are the benefits of AI in online education?,doc10,3,0.5898587703704834
+Q5,What are the benefits of AI in online education?,doc20,4,0.5692518949508667
+Q5,What are the benefits of AI in online education?,doc9,5,0.5659821033477783
+Q6,How does gamification improve student engagement?,doc16,1,0.6875425577163696
+Q6,How does gamification improve student engagement?,doc5,2,0.38030514121055603
+Q6,How does gamification improve student engagement?,doc8,3,0.3498394191265106
+Q6,How does gamification improve student engagement?,doc11,4,0.3357711732387543
+Q6,How does gamification improve student engagement?,doc14,5,0.33237752318382263
+Q7,How can AI help teachers create educational content?,doc17,1,0.8541321754455566
+Q7,How can AI help teachers create educational content?,doc1,2,0.7331060171127319
+Q7,How can AI help teachers create educational content?,doc19,3,0.7017024755477905
+Q7,How can AI help teachers create educational content?,doc9,4,0.6434187889099121
+Q7,How can AI help teachers create educational content?,doc15,5,0.6359238028526306
+Q8,Why is data privacy important in AI education?,doc18,1,0.8156113624572754
+Q8,Why is data privacy important in AI education?,doc9,2,0.6430160403251648
+Q8,Why is data privacy important in AI education?,doc20,3,0.5850394368171692
+Q8,Why is data privacy important in AI education?,doc2,4,0.5281758904457092
+Q8,Why is data privacy important in AI education?,doc5,5,0.5202864408493042
+Q9,Can artificial intelligence replace human teachers?,doc19,1,0.7287715077400208
+Q9,Can artificial intelligence replace human teachers?,doc1,2,0.6090846061706543
+Q9,Can artificial intelligence replace human teachers?,doc10,3,0.5799919962882996
+Q9,Can artificial intelligence replace human teachers?,doc17,4,0.47942739725112915
+Q9,Can artificial intelligence replace human teachers?,doc9,5,0.4763382077217102
+Q10,What are the challenges of implementing AI in schools?,doc20,1,0.7810283303260803
+Q10,What are the challenges of implementing AI in schools?,doc1,2,0.6046916246414185
+Q10,What are the challenges of implementing AI in schools?,doc9,3,0.5734243988990784
+Q10,What are the challenges of implementing AI in schools?,doc17,4,0.5655521154403687
+Q10,What are the challenges of implementing AI in schools?,doc10,5,0.5497060418128967
+Q11,How can AI provide personalized learning experiences?,doc2,1,0.8287743926048279
+Q11,How can AI provide personalized learning experiences?,doc15,2,0.6510511040687561
+Q11,How can AI provide personalized learning experiences?,doc13,3,0.5891510248184204
+Q11,How can AI provide personalized learning experiences?,doc1,4,0.5816363096237183
+Q11,How can AI provide personalized learning experiences?,doc16,5,0.5656962394714355
+Q12,What is the role of predictive analytics in education?,doc14,1,0.7001482248306274
+Q12,What is the role of predictive analytics in education?,doc5,2,0.6785584092140198
+Q12,What is the role of predictive analytics in education?,doc11,3,0.5934982299804688
+Q12,What is the role of predictive analytics in education?,doc9,4,0.45290058851242065
+Q12,What is the role of predictive analytics in education?,doc18,5,0.42130744457244873
+Q13,How can AI improve student feedback?,doc4,1,0.6968624591827393
+Q13,How can AI improve student feedback?,doc15,2,0.5914127230644226
+Q13,How can AI improve student feedback?,doc11,3,0.5907896757125854
+Q13,How can AI improve student feedback?,doc17,4,0.5798653364181519
+Q13,How can AI improve student feedback?,doc1,5,0.5665337443351746
+Q14,What are the applications of NLP for students?,doc12,1,0.6417121887207031
+Q14,What are the applications of NLP for students?,doc13,2,0.5119693279266357
+Q14,What are the applications of NLP for students?,doc17,3,0.42456522583961487
+Q14,What are the applications of NLP for students?,doc2,4,0.4076632261276245
+Q14,What are the applications of NLP for students?,doc6,5,0.3895155191421509
+Q15,How can educational institutions use AI responsibly?,doc9,1,0.7998555898666382
+Q15,How can educational institutions use AI responsibly?,doc20,2,0.7218353152275085
+Q15,How can educational institutions use AI responsibly?,doc1,3,0.6953670382499695
+Q15,How can educational institutions use AI responsibly?,doc10,4,0.649040699005127
+Q15,How can educational institutions use AI responsibly?,doc19,5,0.6131113767623901

@@ -1,0 +1,2 @@
+﻿Natural Language Processing in Education
+Natural Language Processing is a branch of AI that helps computers understand human language. In education, NLP is used for language learning applications, automatic summarization, grammar checking, question answering and text analysis. It helps students interact with educational content more effectively.

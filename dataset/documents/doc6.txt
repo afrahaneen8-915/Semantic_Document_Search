@@ -1,0 +1,3 @@
+AI Chatbots for Student Support
+
+AI chatbots are digital assistants that communicate with students through text. They can answer common academic questions, explain concepts, and provide information about courses and assignments. Students can use chatbots to get learning support at any time. However, important academic decisions and complex doubts should also be discussed with teachers.

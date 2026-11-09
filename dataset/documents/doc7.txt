@@ -1,0 +1,3 @@
+Accessibility and Inclusive Learning with AI
+
+AI tools can make education more accessible to students with different learning needs. Speech-to-text tools convert spoken words into written text, while text-to-speech tools read digital content aloud. Translation tools can help students understand learning materials in different languages. These technologies support inclusive education and create more opportunities for students to learn.

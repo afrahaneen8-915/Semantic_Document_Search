@@ -1,0 +1,2 @@
+﻿Predictive Analytics for Student Retention
+Educational institutions use predictive analytics to identify students who may be at risk of leaving their courses. AI systems analyze attendance, academic progress and engagement patterns. Early identification allows teachers and support teams to provide guidance and academic assistance.

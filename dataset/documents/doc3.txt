@@ -1,0 +1,3 @@
+AI-Based Intelligent Tutoring Systems
+
+Intelligent tutoring systems use Artificial Intelligence to support students during learning. These systems provide explanations, examples, and practice questions based on the learning topic. They can give instant feedback and help students understand difficult concepts. AI tutors are useful for additional practice, but teachers continue to provide important guidance and support.

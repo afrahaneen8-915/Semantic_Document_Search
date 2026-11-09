@@ -1,0 +1,3 @@
+Learning Analytics in Education
+
+Learning analytics uses data to understand student learning activities and progress. AI can analyse information such as quiz scores, assignment results, and learning patterns. These insights help teachers identify topics where students may need extra support. Learning analytics can improve teaching methods and help educational institutions make better academic decisions.

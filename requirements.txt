@@ -1,0 +1,7 @@
+sentence-transformers
+chromadb
+langchain
+langchain-community
+pandas
+numpy
+jupyter

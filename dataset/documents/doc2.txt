@@ -1,0 +1,3 @@
+Personalized Learning Using AI
+
+Personalized learning is one of the important applications of AI in education. AI systems can understand a student's learning progress and provide suitable learning materials. Students can learn at their own pace through customized lessons, exercises, and recommendations. This helps students focus on topics they find difficult and improves their learning experience.

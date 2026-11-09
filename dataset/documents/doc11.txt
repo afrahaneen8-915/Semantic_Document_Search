@@ -1,0 +1,2 @@
+﻿AI-Powered Student Performance Prediction
+Artificial Intelligence can analyze students' academic records, attendance, assignment scores and learning activities to predict academic performance. These predictions help teachers identify students who may need additional support. Educational institutions can use predictive analytics to improve teaching strategies and student outcomes.
